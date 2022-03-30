@@ -1,0 +1,3 @@
+#cumulante di Binder per L=20-70
+
+
